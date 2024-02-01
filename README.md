@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/ThibautCuchet/contributions?format=svg&private=true" width="350" title="Includes public contributions"/>
-    </a>
-</p>
