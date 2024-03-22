@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bonjour, je suis Thibaut 👋
 
-<!--
-**ThibautCuchet/ThibautCuchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un véritable couteau suisse technologique, travaillant actuellement comme développeur web et gestionnaire de projets chez [Embie](https://embie.be). Ma curiosité insatiable et ma passion pour la tech me poussent à explorer de nouvelles approches. 
 
-Here are some ideas to get you started:
+## 🛠 Mes Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon parcours m'a permis de m'étaler dans divers domaines, me rendant ainsi capable de gérer tout types de projets :
+
+- **Développement Full Stack** : React, NextJS, Tailwind CSS
+- **Développement mobile** : React Native, Flutter
+- **Développement NoCode** : n8n, Airtable, Grafana
+- **Déploiement/DevOps/CI** : Docker, Kubernetes, Github Actions
+- **GenAI** : OpenAI, Vercel AI SDK
+
+## 🎯 Objectifs Personnels
+
+- [ ] Contribuer à des projets open source.
+- [ ] Partager mon expérience.
+- [ ] Aider d'autres devs.
+
+## 📫 Comment me contacter
+
+- LinkedIn: [Thibaut Cuchet](https://www.linkedin.com/in/thibaut-cuchet/)
+- E-mail: [thibautcuchet@hotmail.com](mailto:thibautcuchet@hotmail.com)
