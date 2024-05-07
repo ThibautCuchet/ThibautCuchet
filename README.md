@@ -23,4 +23,4 @@ Mon parcours m'a permis de m'étaler dans divers domaines, me rendant ainsi capa
 - LinkedIn: [Thibaut Cuchet](https://www.linkedin.com/in/thibaut-cuchet/)
 - E-mail: [thibautcuchet@gmail.com](mailto:thibautcuchet@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=thibautcuchet)
+[![Hits](https://hits.sh/github.com/thibautcuchet.svg?label=Views)](https://hits.sh/github.com/thibautcuchet/)
