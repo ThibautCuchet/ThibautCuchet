@@ -22,7 +22,7 @@ Throughout my journey, I’ve gained expertise in various areas, making me a ver
 
 ## 🎯 Personal Goals
 
-- [ ] Contribute to open-source projects.
+- [x] Contribute to open-source projects.
 - [ ] Share my knowledge and experience with the community.
 - [ ] Help other developers grow and succeed.
 
